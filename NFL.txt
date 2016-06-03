@@ -1,8 +1,8 @@
 # ROSTER FILE, PRO FOOTBALL COACH
-# This roster file must have 32 teams.,,,,,,,,,,,
-# It must be in order of divisions: ,,,,,,,,,,,
-# AMNOR, AMEAS, AMSOU, AMWES, NANOR, NAEAS, NASOU, NAWES",,,,,,,,,,,
-# Team Name, Team Abbr",,,,,,,,,,,
+# This roster file must have 32 teams.
+# It must be in order of divisions:
+# AMNOR, AMEAS, AMSOU, AMWES, NANOR, NAEAS, NASOU, NAWES
+# Team Name, Team Abbr
 CIN Bengals, CIN
 #  Name, Age, Rookie Year, Pot, FIQ, Dur, Attr1, Attr2, Attr3, Money, Years
 WR,Mario Alford,25,25,80,62,91,97,76,85,1,1
